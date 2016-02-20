@@ -1,0 +1,54 @@
+body {
+	padding-top:25px;
+	text-align: center;
+	border-top: 5px solid black;
+	border-bottom: 5px solid black;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	margin-right: 150px;
+	margin-left: 150px;
+	background-color: F0F0F0 
+
+
+}
+
+	/*THIS MEANS DO NOT EXECUTE THIS LINE, bring this up with control+back slash*/
+
+ul {
+
+	list-style: inside;
+}
+
+hr {
+	
+}
+
+h1 {
+	text-transform: uppercase;
+
+}
+
+h3 {
+	text-transform: uppercase;
+}
+
+#first-paragraph {
+	text-decoration: underline;
+
+
+}
+
+.other-paragraphs {
+	font-weight: bold;
+
+}
+
+img {
+	float: right;
+	border-style: solid;
+	border-width: 1px;
+	width: 300px;
+	height: 300px;
+	margin-left: 20px
+}
+	/*you can also do to change image properties the following -- border: 1px solid black*/
